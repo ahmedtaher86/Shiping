@@ -1,0 +1,57 @@
+hr{
+    border-style:dotted none none ;
+    border-color: black;
+    border-width: 15px;
+    width: 10%;
+    
+    
+    }
+
+    h1{
+color:#6BFFBF;
+
+
+    }
+    h2{
+        color:#6BFFBF;
+
+
+    }
+    
+    a:link {
+      background-color: #ceb98c;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+    
+    /* visited link */
+    a:visited {
+        background-color: #ceb98c;
+      color: white;
+      padding: 14px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+    
+    /* mouse over link */
+    a:hover
+    {
+      color: blue;
+      background-color: #ceb98c;
+    }
+    
+    /* selected link */
+    a:active 
+    {
+      color: blue;
+      background-color: #ceb98c;
+      
+    }
+    body{
+        background-color:#ceb98c;
+        
+    }
+    
